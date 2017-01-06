@@ -1,0 +1,1 @@
+exports.RellaxDirective = require('./dist/out-tsc/rellax.directive');
