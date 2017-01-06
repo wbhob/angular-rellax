@@ -1,6 +1,6 @@
 {
   "name": "angular-rellax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Angular 2 bindings for Rellax.js",
   "main": "angular2-library-example.js",
   "scripts": {
