@@ -15,7 +15,6 @@
     "Angular",
     "2",
     "Library",
-    "Seed",
     "Rellax",
     "Parallax"
   ],
@@ -31,14 +30,7 @@
     "typescript": "^2.1.4"
   },
   "dependencies": {
-    "@angular/common": "2.4.2",
-    "@angular/compiler": "2.4.2",
     "@angular/core": "2.4.2",
-    "@angular/http": "2.4.2",
-    "@angular/platform-browser": "2.4.2",
-    "@angular/platform-browser-dynamic": "2.4.2",
-    "rellax": "^1.0.0",
-    "rxjs": "5.0.3",
-    "zone.js": "^0.7.2"
+    "rellax": "^1.0.0"
   }
 }
