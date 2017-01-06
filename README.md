@@ -1,4 +1,4 @@
-# ng-rellax
+# angular-rellax
 Angular 2 bindings for Rellax by Dixon and Moe.
 
 ### Usage
