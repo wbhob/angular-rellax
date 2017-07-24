@@ -7,7 +7,17 @@
     "moduleResolution": "node",
     "removeComments": true,
     "sourceMap": true,
-    "outDir": "../lib",
-    "declaration": true
+    "outDir": "./dist",
+    "declaration": true,
+    "alwaysStrict": true,
+    "lib": [
+      "dom",
+      "es2015"
+    ]
+  },
+  "angularCompilerOptions": {
+    "genDir": "./dist",
+    "outDir": "./dist",
+    "debug": true
   }
 }
